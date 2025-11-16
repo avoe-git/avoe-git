@@ -15,6 +15,6 @@ Hi ! 👋 My name is avoe
                   </p>
 <hr>                  
 ### 🔥 My Streak
-<div style="margin: auto;">
+<p align="center">
 <a href="http://www.github.com/avoe-git"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avoe-git&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
+</p>
