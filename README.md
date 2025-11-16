@@ -1,7 +1,6 @@
-<p align="center">
-  
-  #  Hi ! 👋 My name is avoe
-</p>
+
+
+#  Hi ! 👋 My name is avoe
 
 ### 👨‍💻 About me
 *   🌍  I'm based in Azerbaijan
